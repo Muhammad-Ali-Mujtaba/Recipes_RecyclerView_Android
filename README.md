@@ -5,5 +5,4 @@ Upon clicking an item, an intent is generated to start a new activity with the d
 
 ## Screenshots
 
-![Screenshot1](screenshots/screenshot_1.png)
-![Screenshot2](screenshots/screenshot_2.png)
+![Screenshot1](screenshots/screenshot_1.png) ![Screenshot2](screenshots/screenshot_2.png)
